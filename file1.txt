@@ -3,5 +3,3 @@ hello world first program on local repository
 one more modification here, and new data also entered while fixing bug.
 
 change 2 : Bug1 fix
-
-change 3 : Bug2 fix
