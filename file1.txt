@@ -4,4 +4,7 @@ one more modification here, and new data also entered while fixing bug.
 
 change 2 : Bug1 fix
 
-change x : change made by teammate n same file
+change 3 : change x made by teammate is modified to change 3 and saved
+
+Change 4 : Bug2 is fixed by doing change 4
+
