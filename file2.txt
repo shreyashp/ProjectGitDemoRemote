@@ -2,4 +2,7 @@ welcome to github, test2 file
 
 furthur more updations
 
-changes made by teammate id2
+changes made by teammate id2 are deleted, just mentioned here for reference
+
+logout feature is added.
+
